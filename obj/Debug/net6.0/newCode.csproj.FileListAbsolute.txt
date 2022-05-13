@@ -1,0 +1,15 @@
+C:\Users\AR66\Desktop\newCode\bin\Debug\net6.0\newCode.exe
+C:\Users\AR66\Desktop\newCode\bin\Debug\net6.0\newCode.deps.json
+C:\Users\AR66\Desktop\newCode\bin\Debug\net6.0\newCode.runtimeconfig.json
+C:\Users\AR66\Desktop\newCode\bin\Debug\net6.0\newCode.dll
+C:\Users\AR66\Desktop\newCode\bin\Debug\net6.0\newCode.pdb
+C:\Users\AR66\Desktop\newCode\obj\Debug\net6.0\newCode.csproj.AssemblyReference.cache
+C:\Users\AR66\Desktop\newCode\obj\Debug\net6.0\newCode.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AR66\Desktop\newCode\obj\Debug\net6.0\newCode.AssemblyInfoInputs.cache
+C:\Users\AR66\Desktop\newCode\obj\Debug\net6.0\newCode.AssemblyInfo.cs
+C:\Users\AR66\Desktop\newCode\obj\Debug\net6.0\newCode.csproj.CoreCompileInputs.cache
+C:\Users\AR66\Desktop\newCode\obj\Debug\net6.0\newCode.dll
+C:\Users\AR66\Desktop\newCode\obj\Debug\net6.0\refint\newCode.dll
+C:\Users\AR66\Desktop\newCode\obj\Debug\net6.0\newCode.pdb
+C:\Users\AR66\Desktop\newCode\obj\Debug\net6.0\newCode.genruntimeconfig.cache
+C:\Users\AR66\Desktop\newCode\obj\Debug\net6.0\ref\newCode.dll
